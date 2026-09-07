@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="gcp-probe" width="800">
+</div>
+
 # gcp-probe
 
 > Red team security tool — authorized use only.
