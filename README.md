@@ -1,8 +1,8 @@
-﻿# gcp-probe
+# gcp-probe
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python gcp_probe.py --help
 ```
 
