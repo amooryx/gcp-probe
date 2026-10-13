@@ -19,7 +19,6 @@ METADATA_FIELDS = [
     "project/numeric-project-id",
     "instance/service-accounts/default/email",
     "instance/service-accounts/default/scopes",
-    "instance/service-accounts/default/token",
     "instance/hostname",
     "instance/id",
     "instance/zone",
